@@ -1,5 +1,4 @@
-# faceit_live3
-This is an update to http://github.com/faceit_live using [first order model](https://github.com/AliaksandrSiarohin/first-order-model) by Aliaksandr Siarohin to generate the images. This model only requires a single image, so no training is needed and things are much easier. I've included instructions on how to set it up under **Windows 10** and **Linux**.
+# RealTime-Face _Alteration.
 
 # Setup
 
